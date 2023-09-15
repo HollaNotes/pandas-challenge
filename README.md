@@ -64,5 +64,7 @@ Please see below for a summary on the schools in this district:
 ---
 
 ### **( 2 CORRECT conclusions or comparisons from calcs )**
+- CHARTER SCHOOLS HAVE A HIGHER OVERALL PASSING RATE THAN DISTRICT
+- SPENDING RANGES: HIGHER THE RANGE, LOWER THE SCORES - (why though?) do some external research?
 
 
