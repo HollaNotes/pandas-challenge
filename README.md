@@ -26,6 +26,7 @@ Please see below for a summary on the schools in this district:
 
 #### **Highest-Performing Schools (by % Overall Passing):**
 
+
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/de3d1098-2bb5-49f9-8bac-f45566bfa7d8)
 
 
@@ -59,5 +60,9 @@ Please see below for a summary on the schools in this district:
 #### **Scores by School Type:**
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/c6a85062-698b-48be-939c-d1e60ed24f80)
+
+---
+
+### **( 2 CORRECT conclusions or comparisons from calcs )**
 
 
