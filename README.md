@@ -13,44 +13,57 @@ This analysis is based on data from a particular school district. It is comprise
 ---
 
 #### **District Summary:**
-Please see below for a summary on the school district:
+In order to get an overall summary of the district, calcualtions were made to find:
+  - Total Schools 
+  - Total Students
+  - Total Budget
+  - Average Math Score
+  - Average Reading Score
+  - % Passing Math
+  - % Passing Reading
+  - % Passing Overall
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/83a35406-dc13-4e17-acf2-d42ec9a5ca6e)
 
 
 #### **School Summary:**
-Please see below for a summary on the schools in this district:
+Next, calculations were made to dig a little deeper into the district by looking into data about each school. In the chart below, you are able to start seeing a better breakdown between the different schools. 
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/b1d07084-2d66-4f56-a932-6e69bebb6b91)
 
 
 #### **Highest-Performing Schools (by % Overall Passing):**
-
+Calculations were made to sort the schools by Highest Overall Passing Percent. This was done by sorting the schools by the column "% Overall Passing" and viewing the top 5 rows in descending order, as seen below:
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/de3d1098-2bb5-49f9-8bac-f45566bfa7d8)
 
 
 #### **Bottom Performing Schools (By % Overall Passing):**
+Calculations were made to sort the schools by Lowest Overall Passing Percent. This was done by sorting the schools by the column "% Overall Passing" and viewing the top 5 rows in ascending order, as seen below:
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/d614584b-9e36-40d8-858d-3ab6d787a206)
 
 
 #### **Math Scores by Grade:**
+Math Scores by grade was calculated by separating the scores by grade (9th grade - 12th grade) and grouping the school names with the math scores and finding the average score.
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/a39ee262-3e2b-4274-9ee6-2e88fab4042a)
 
 
 #### **Reading Score by Grade:**
+Reading Scores by grade was calculated by separating the scores by grade (9th grade - 12th grade) and grouping the school names with the reading scores and finding the average score.
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/c5b36883-0f24-4d45-9ad5-2ff7f2728244)
 
 
 #### **Scores by School Spending:**
+The chart below includes the bin method to group together schools who have spent similar amounts throughout the year. 
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/f3dd32cb-a037-4c6f-88b8-3ad29ec5dad5)
 
 
 #### **Scores by School Size:**
+The chart below uses the bin method as well to group together schools by similar size. 
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/65e0a822-e27b-4bfe-8919-6077f2fb73ee)
 
@@ -58,6 +71,7 @@ Please see below for a summary on the schools in this district:
 
 
 #### **Scores by School Type:**
+The chart below compares Charter Schools vs. District Schools. As you can see, Charter schools tent to have an overall passing rate of 90% while District Schools tend to have an overall passing rate of 54%.
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/c6a85062-698b-48be-939c-d1e60ed24f80)
 
