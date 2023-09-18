@@ -33,13 +33,13 @@ Next, calculations were made to dig a little deeper into the district by looking
 
 
 #### **Highest-Performing Schools (by % Overall Passing):**
-Calculations were made to sort the schools by Highest Overall Passing Percent. This was done by sorting the schools by the column "% Overall Passing" and viewing the top 5 rows in descending order, as seen below:
+Calculations were made to sort the schools by Highest Overall Passing Percent. This was done by sorting the schools by the column "% Overall Passing" and viewing the rows in descending order, as seen below:
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/de3d1098-2bb5-49f9-8bac-f45566bfa7d8)
 
 
 #### **Bottom Performing Schools (By % Overall Passing):**
-Calculations were made to sort the schools by Lowest Overall Passing Percent. This was done by sorting the schools by the column "% Overall Passing" and viewing the top 5 rows in ascending order, as seen below:
+Calculations were made to sort the schools by Lowest Overall Passing Percent. This was done by sorting the schools by the column "% Overall Passing" and viewing the rows in ascending order, as seen below:
 
 ![image](https://github.com/HollaNotes/pandas-challenge/assets/90803907/d614584b-9e36-40d8-858d-3ab6d787a206)
 
@@ -78,7 +78,9 @@ The chart below compares Charter Schools vs. District Schools. As you can see, C
 ---
 
 ### **( 2 CORRECT conclusions or comparisons from calcs )**
-- CHARTER SCHOOLS HAVE A HIGHER OVERALL PASSING RATE THAN DISTRICT
-- SPENDING RANGES: HIGHER THE RANGE, LOWER THE SCORES - (why though?) do some external research?
+
+- The data suggests that Charter Schools have a highter overall passing rate than District Schools. 
+- The data suggests that there is a negative correlation between spending ranges and overall scores.
+- The data suggests that there is little correlation between test scores and grade in high school. The scores of each grade in a particular high school tend to stay similar while the larger difference is scores between different schools.
 
 
