@@ -77,10 +77,10 @@ The chart below compares Charter Schools vs. District Schools. As you can see, C
 
 ---
 
-### **( 2 CORRECT conclusions or comparisons from calcs )**
+### **( Conclusions or comparisons from calcs )**
 
-- The data suggests that Charter Schools have a highter overall passing rate than District Schools. 
-- The data suggests that there is a negative correlation between spending ranges and overall scores.
-- The data suggests that there is little correlation between test scores and grade in high school. The scores of each grade in a particular high school tend to stay similar while the larger difference is scores between different schools.
+- The data suggests that Charter Schools have a highter overall passing rate than District Schools. As seen in the above section "Scores by School Type", you can see the difference in the average passing rates between the two types of schools.
+- The data suggests that there is a negative correlation between spending ranges and overall scores. As seen in the above section "Scores by School Spending", it seems that the schools that spend the most per student tended to have lower scores than schools that spent less money per student. The bins were all within about a $100 range, so this may be a coincidence, but it was in interesting finding for this particular district.
+- The data suggests that there is little correlation between test scores and grade in high school. The scores of each grade in a particular high school tend to stay similar while the larger difference is scores between different schools. 
 
 
